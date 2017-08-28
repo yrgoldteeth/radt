@@ -1,3 +1,4 @@
+# Original code from https://github.com/chasemgray/Ruby-ADT/blob/master/lib/adt/globals.rb
 module RADT
   class RADTError < StandardError; end
 

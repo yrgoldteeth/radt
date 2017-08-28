@@ -1,3 +1,4 @@
+# Original code from https://github.com/chasemgray/Ruby-ADT/blob/master/lib/adt/table.rb
 module RADT
 
   # RADT::Table is the primary interface to a single RADT file and provides

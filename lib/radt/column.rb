@@ -1,3 +1,4 @@
+# Original Code from https://github.com/chasemgray/Ruby-ADT/blob/master/lib/adt/column.rb
 module RADT
   class ColumnLengthError < RADTError; end
   class ColumnNameError < RADTError; end

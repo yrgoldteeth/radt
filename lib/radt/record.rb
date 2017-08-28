@@ -1,3 +1,4 @@
+# Original code from https://github.com/chasemgray/Ruby-ADT/blob/master/lib/adt/record.rb
 module RADT
   # An instance of RADT::Record represents a row in the RADT file
   class Record
